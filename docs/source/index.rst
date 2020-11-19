@@ -3,18 +3,21 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to OpenFOAM's documentation!
-====================================
+Learn OpenFOAM use and programming
+==================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
+   pages/generalProgramming
+   pages/contact
+   pages/disclaimer
 
+Links
+=====
 
-Indices and tables
-==================
-
+* My Website: https://chirayubatra.com
 * :ref:`genindex`
 * :ref:`modindex`
 * :ref:`search`
