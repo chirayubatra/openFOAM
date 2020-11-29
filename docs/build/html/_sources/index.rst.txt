@@ -12,6 +12,7 @@ Learn OpenFOAM use and programming
 
    pages/openFOAM
    pages/generalProgramming
+   pages/fvm
    pages/contact
    pages/disclaimer
 
