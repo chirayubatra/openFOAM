@@ -10,6 +10,7 @@ Learn OpenFOAM use and programming
    :maxdepth: 3
    :caption: Contents:
 
+   pages/openFOAM
    pages/generalProgramming
    pages/contact
    pages/disclaimer
